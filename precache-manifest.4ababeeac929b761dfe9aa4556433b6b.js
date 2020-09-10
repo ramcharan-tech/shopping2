@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/shopping2/img/logo.06017326.png"
   },
   {
-    "revision": "54080746d981ec9c08dec7abc8506740",
+    "revision": "ad3fc9f675c85ab9b8ca704db28de90a",
     "url": "/shopping2/index.html"
   },
   {
