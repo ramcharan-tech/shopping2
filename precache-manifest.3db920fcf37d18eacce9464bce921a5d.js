@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/shopping2/js/about.50311efa.js"
   },
   {
-    "revision": "26c447d25e945770651f",
+    "revision": "4588d5031ef718eb9168",
     "url": "/shopping2/css/app.6aa0756c.css"
   },
   {
-    "revision": "26c447d25e945770651f",
-    "url": "/shopping2/js/app.04840a8d.js"
+    "revision": "4588d5031ef718eb9168",
+    "url": "/shopping2/js/app.1222f238.js"
   },
   {
     "revision": "0e23fd6eb4065eb7e58f",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/shopping2/img/logo.06017326.png"
   },
   {
-    "revision": "eabafcb5fcd2f91071976ba8a0a05f59",
+    "revision": "54080746d981ec9c08dec7abc8506740",
     "url": "/shopping2/index.html"
   },
   {
