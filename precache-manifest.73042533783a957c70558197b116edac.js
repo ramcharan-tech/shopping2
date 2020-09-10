@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/shopping2/index.html"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/shopping2/robots.txt"
+    "revision": "06017326ac3feb6477ca5d1e40489e0b",
+    "url": "/shopping2/img/Vue-Icons.png"
   },
   {
-    "revision": "06017326ac3feb6477ca5d1e40489e0b",
-    "url": "/shopping2/shopping2/img/Vue-Icons.png"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/shopping2/robots.txt"
   }
 ];

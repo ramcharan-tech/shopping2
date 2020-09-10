@@ -3,12 +3,12 @@
   "short_name": "vue-shopping-cart",
   "icons": [
     {
-      "src": "/img/icons/android-chrome-192x192.png",
+      "src": "/shopping2/img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/img/icons/android-chrome-512x512.png",
+      "src": "/shopping2/img/icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
